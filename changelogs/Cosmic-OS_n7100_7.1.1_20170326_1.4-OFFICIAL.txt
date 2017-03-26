@@ -1,0 +1,45 @@
+====================
+     03-26-2017
+====================
+
+   * device/samsung/n7100/
+cb5c435  Cleanup  [Sagar Shah]
+60de38a  Fix Duplicate Declarations  [Sagar Shah]
+e3e3b30  Update Doze Settings to make it compatible with Pixel UI  [Sagar Shah]
+3862c22  Move CosmicDoze to Settings[2/2]  [Sagar Shah]
+e20915c  N7100: Doze: Import Doze Settings from Hammerhead!  [Sagar Shah]
+7059eaf  Fix Magisk Manager Variable!  [Sagar Shah]
+71876e0  N7100: Specify non-PIE executables for linker  [Sagar Shah]
+e0bd724  N7100: GPS fixes  [Sagar Shah]
+   * device/samsung/smdk4412-common/
+4fdff46  smdk4412: remove TARGET_NEEDS_NON_PIE_SUPPORT  [Sagar Shah]
+5dce663  Revert "GPS Updates"  [Sagar Shah]
+f8a2634  smdk4412-common: Add support for t0lteskt and t0ltektt  [Sagar Shah]
+   * frameworks/base/
+4cceb2c4a78  Location tile: new icons  [Sagar Shah]
+aa22510b2e2  Location tile: add high accuracy state icon  [Sagar Shah]
+bf77747a91c  Fix intermittent slowness in resolver activity towards end of day.  [Sagar Shah]
+b8de918022c  Allow to set a different battery style for tile and statusbar [1/2]  [Sagar Shah]
+a04d721bbbe  Allow themers to customize battery frame color on darkintensity  [Sagar Shah]
+   * hardware/qcom/audio-caf/msm8952/
+baabf8ab  audio: Fix msm8952-snd-card-mtp support  [LuK1337]
+   * packages/apps/Galaxy/
+948edf567  Allow to set a different battery style for tile and statusbar [2/2]  [Sagar Shah]
+   * packages/apps/Settings/
+765058ba7  Add CosmicDoze to Settings[1/2]  [Sagar Shah]
+0beca89d0  Make SmartBar Dialog's parent style be DeviceDefault  [Sagar Shah]
+a58a34449  Themes: Expose SmartBar Dialogs from manifest  [Sagar Shah]
+2585f3e3e  Display: Move and rename smallest width option  [Sagar Shah]
+   * vendor/cos/
+14ebbcc  Add N7100  [Sagar Shah]
+
+====================
+     03-25-2017
+====================
+
+   * packages/apps/OTAUpdates/
+0b10db0c  Revert "Revert "OTAUpdates : No Launcher activity for you!""  [Simao Gomes Viana]
+   * packages/apps/Settings/
+6a7068698  Update for Nexus 5X maintainer (#25)  [Kshitij Gupta]
+   * vendor/ota/
+927d1bc  OTA: Update oneplus2 (24/03/2017) (#8)  [Harsh Shandilya]
