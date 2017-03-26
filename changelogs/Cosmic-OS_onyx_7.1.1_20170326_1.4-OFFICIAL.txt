@@ -1,0 +1,45 @@
+====================
+     03-26-2017
+====================
+
+   * device/oneplus/onyx/
+b085287  onyx: add charger_res_images  [ZerNico]
+   * frameworks/base/
+4cceb2c  Location tile: new icons  [Sagar Shah]
+aa22510  Location tile: add high accuracy state icon  [Sagar Shah]
+bf77747  Fix intermittent slowness in resolver activity towards end of day.  [Sagar Shah]
+b8de918  Allow to set a different battery style for tile and statusbar [1/2]  [Sagar Shah]
+a04d721  Allow themers to customize battery frame color on darkintensity  [Sagar Shah]
+   * hardware/qcom/audio-caf/msm8952/
+baabf8a  audio: Fix msm8952-snd-card-mtp support  [LuK1337]
+   * packages/apps/Galaxy/
+948edf5  Allow to set a different battery style for tile and statusbar [2/2]  [Sagar Shah]
+   * packages/apps/Settings/
+0beca89  Make SmartBar Dialog's parent style be DeviceDefault  [Sagar Shah]
+a58a344  Themes: Expose SmartBar Dialogs from manifest  [Sagar Shah]
+2585f3e  Display: Move and rename smallest width option  [Sagar Shah]
+   * vendor/cos/
+14ebbcc  Add N7100  [Sagar Shah]
+
+====================
+     03-25-2017
+====================
+
+   * packages/apps/OTAUpdates/
+0b10db0  Revert "Revert "OTAUpdates : No Launcher activity for you!""  [Simao Gomes Viana]
+   * packages/apps/Settings/
+6a70686  Update for Nexus 5X maintainer (#25)  [Kshitij Gupta]
+   * vendor/ota/
+927d1bc  OTA: Update oneplus2 (24/03/2017) (#8)  [Harsh Shandilya]
+
+====================
+     03-24-2017
+====================
+
+   * device/oneplus/onyx/
+3cbb0d1  Use Launcher 3 instead of Pixel Launcher  [ZerNico]
+5f6013f  Remove Magisk  [ZerNico]
+dbf781b  onyx: audio: update acdb id of SND_DEVICE_IN_SPEAKER_MIC  [ZerNico]
+01af6c8  onyx: audio: update backend alias  [ZerNico]
+d1f177a  onyx: fix kernel path  [GitHub]
+   * vendor/ota/
