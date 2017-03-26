@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_lettuce_7.1.1</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_lettuce_7.1.1_20170326_1.4-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170326</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/lettuce/Cosmic-OS_lettuce_7.1.1_20170326_1.4-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/lettuce</HttpUrl>
-  <Android>7.1.1</Android>
-  <CheckMD5>f52c3c6bcb45caab2e9681ba3e5c2d24</CheckMD5>
-  <FileSize type="integer">543407680</FileSize>
-  <Developer>Sagar Shah</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      03-26-2017
 ====================
 
@@ -54,5 +41,5 @@ a58a34449  Themes: Expose SmartBar Dialogs from manifest  [Sagar Shah]
 
 ====================
      03-25-2017
-====================</Changelog>
-</ROM>
+====================
+
