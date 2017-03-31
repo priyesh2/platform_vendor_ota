@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_lettuce_7.1.1</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_lettuce_7.1.1_20170331_1.4-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170331</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/lettuce/Cosmic-OS_lettuce_7.1.1_20170331_1.4-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/lettuce</HttpUrl>
-  <Android>7.1.1</Android>
-  <CheckMD5>3d16fac14879b9f2dbce7c05e98a80da</CheckMD5>
-  <FileSize type="integer">543419240</FileSize>
-  <Developer>Sagar Shah</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      03-31-2017
 ====================
 
@@ -55,5 +42,4 @@ a661bac  Removed herolte and replaced with angler (#22)  [Aditya Upreti]
 
 ====================
      03-28-2017
-====================</Changelog>
-</ROM>
+====================
