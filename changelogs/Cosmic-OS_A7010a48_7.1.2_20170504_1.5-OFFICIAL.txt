@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_A7010a48_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_A7010a48_7.1.2_20170504_1.5-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170504</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/A7010a48/Cosmic-OS_A7010a48_7.1.2_20170504_1.5-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/A7010a48</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>e6047b7edacf36c79b85582706581625</CheckMD5>
-  <FileSize type="integer">491794268</FileSize>
-  <Developer>Ganesh Varma</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      05-04-2017
 ====================
 
@@ -55,5 +42,4 @@ cccfa29  Revert "Suspend Actions [2/3]"  [Sagar Shah]
 
    * build/
 858251f  Build: Set new Pixel sounds as default  [Sagar Shah]
-1f206b7  Prepare for Android 7.1.2  [Sagar Shah]</Changelog>
-</ROM>
+1f206b7  Prepare for Android 7.1.2  [Sagar Shah]
