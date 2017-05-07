@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_lettuce_7.1.1</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_lettuce_7.1.2_20170507_1.5-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170507</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/lettuce/Cosmic-OS_lettuce_7.1.2_20170502_1.5-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/lettuce</HttpUrl>
-  <Android>7.1.1</Android>
-  <CheckMD5>71a3d1a6bf9c0dff5e15bd1be500ae17</CheckMD5>
-  <FileSize type="integer">526091713</FileSize>
-  <Developer>Sagar Shah</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      05-07-2017
 ====================
 
@@ -55,5 +42,4 @@ ee732912  [1/3] AudioEffects: Add center frequency param to bassboost  [Sagar Sh
 2cc5edf  Intoduce 'Turbo' APK  [Sagar Shah]
 
 ====================
-     05-06-2017</Changelog>
-</ROM>
+     05-06-2017
