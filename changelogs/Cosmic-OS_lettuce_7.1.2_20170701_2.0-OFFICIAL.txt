@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_lettuce_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_lettuce_7.1.2_20170701_2.0-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170701</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/lettuce/Cosmic-OS_lettuce_7.1.2_20170701_2.0-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/lettuce</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>87c85cd775fe44ee1fb3337e961988a5</CheckMD5>
-  <FileSize type="integer">429337627</FileSize>
-  <Developer>Sagar Shah</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      07-01-2017
 ====================
 
@@ -55,5 +42,4 @@ d705eb7  Messaging: Swipe right to delete conversation  [Sagar Shah]
 aa40880  Revert "SoundSettings: Remove duplicate DND preference"  [Sagar Shah]
 c640031  Revert "Volume can not be updated in Sound&notification"  [Sagar Shah]
    * vendor/cos/
-5b29b5e  Changelog: beautify:squashed. Make changelog more informative add author and branch sets  [Sagar Shah]</Changelog>
-</ROM>
+5b29b5e  Changelog: beautify:squashed. Make changelog more informative add author and branch sets  [Sagar Shah]
