@@ -2,7 +2,7 @@
 <ROM>
   <RomName>Cosmic-OS_potter_7.1.2</RomName>
   <VersionName><![CDATA[ Cosmic-OS_potter_7.1.2_20170708_2.0-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170709</VersionNumber>
+  <VersionNumber type="integer">20170708</VersionNumber>
   <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/potter/Cosmic-OS_potter_7.1.2_20170708_2.0-OFFICIAL.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/potter</HttpUrl>
   <Android>7.1.2</Android>
