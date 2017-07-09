@@ -1,0 +1,45 @@
+====================
+     07-09-2017
+====================
+
+   * frameworks/native/
+f41e55d  native: Add GESTURE_SENSOR input source  [Sid-Sun]
+   * manifest/
+fc01616  Track SnapdragonCamera  [Sid-Sun]
+   * packages/apps/Settings/
+b3747ab  Expose icon color  [GitHub]
+   * vendor/cos/
+4ee466b  Revert "SnapdragonCamera --> Snap"  [Sid-Sun]
+
+====================
+     07-08-2017
+====================
+
+   * device/motorola/athene/
+b3668c6  Update cos.dependencies  [GitHub]
+   * vendor/motorola/athene/
+6c2260f  Update athene-vendor.mk  [GitHub]
+   * vendor/ota/
+b8af84d  Merge pull request #29 from kunalshah912/n-fix  [GitHub]
+
+====================
+     07-07-2017
+====================
+
+   * build/
+d106101  Version bump to NJH47B  [Sagar Shah]
+   * frameworks/av/
+93ff0d8  Merge tag 'LA.UM.5.6.r1-05100-89xx.0' of http://source.codeaurora.org/quic/la/platform/frameworks/av into n-mr2  [Sagar Shah]
+   * frameworks/base/
+ac4b37c  Revert "Keep old nfc tile drawable name for themes compatibility"  [Sagar Shah]
+   * frameworks/opt/telephony/
+1ae8f01  Merge tag 'LA.UM.5.6.r1-05100-89xx.0' of http://source.codeaurora.org/quic/la/platform/frameworks/opt/telephony into n-mr2  [Sagar Shah]
+   * packages/services/Telephony/
+d8371e1  telephony: fix for duplicate apn option under Settings app  [Sagar Shah]
+
+====================
+     07-06-2017
+====================
+
+
+====================
