@@ -1,0 +1,45 @@
+====================
+     07-08-2017
+====================
+
+   * packages/apps/Settings/
+bbb8e19e5  Update cos_mod_version_icon.xml (#48)  [Sidharth Soni]
+   * vendor/cos/
+a53ad15  Merge pull request #48 from Chinmay12112/patch-1  [GitHub]
+48806d5  add merlin to device list  [GitHub]
+
+====================
+     07-07-2017
+====================
+
+   * frameworks/native/
+984983269  Merge pull request #2 from MRTHAKER/n-mr2  [GitHub]
+7d37a64e2  fix typo  [Hassan Sardar]
+8cb19117f  fix typo  [Hassan Sardar]
+f5e9a7769  Revert "SurfaceFlinger: Avoid HDR layers going to GPU."  [Hassan Sardar]
+   * manifest/
+7eac00ac  Fix manifest  [Sid-Sun]
+b193c712  Track SnapdragonCamera from OMNIROM  [Sid-Sun]
+   * packages/apps/Settings/
+d4f07f23a  Fix cosmic_log vector_assert (#47)  [Sidharth Soni]
+   * vendor/cos/
+a6f4e33  Merge pull request #47 from Keerten/patch-1  [GitHub]
+f84ffa3  Add athene [Moto G4/Plus]  [GitHub]
+9cff50b  Merge pull request #46 from ganeshi4u/patch-2  [GitHub]
+bdb71f8  add support for Lenovo K4 Note  [GitHub]
+d80c5b0  Merge pull request #44 from jackcicci/patch-1  [GitHub]
+ed18df3  Drop klte  [Sid-Sun]
+   * vendor/ota/
+b8af84d  Merge pull request #29 from kunalshah912/n-fix  [GitHub]
+3909a85  OTA: Update oneplus2 (07/07/2017)  [kunalshah]
+
+====================
+     07-06-2017
+====================
+
+   * build/
+d106101ff  Version bump to NJH47B  [Sagar Shah]
+c0baf36e7  NHG47L  [Sagar Shah]
+   * frameworks/av/
+93ff0d866  Merge tag 'LA.UM.5.6.r1-05100-89xx.0' of http://source.codeaurora.org/quic/la/platform/frameworks/av into n-mr2  [Sagar Shah]
+   * frameworks/base/
