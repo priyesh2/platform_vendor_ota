@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_lettuce_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_lettuce_7.1.2_20170711_2.0-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170711</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/lettuce/Cosmic-OS_lettuce_7.1.2_20170711_2.0-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/lettuce</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>682bb4b5dbe09f7545bb3d0462fca039</CheckMD5>
-  <FileSize type="integer">429602822</FileSize>
-  <Developer>Sagar Shah</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      07-11-2017
 ====================
 
@@ -55,5 +42,4 @@ cfa2874  Fix visibility of single-line view in expanded group notification  [Sag
 6ae0643  Add Music QS Tile  [Sagar Shah]
 d1eccda  Add Sync QS Tile  [Sagar Shah]
 df55e4e  Base: fix facelock crash when lock screen is disabled  [Sagar Shah]
-ba93ab0  Updated Fling Icons to CosmicOS  [Sagar Shah]</Changelog>
-</ROM>
+ba93ab0  Updated Fling Icons to CosmicOS  [Sagar Shah]
