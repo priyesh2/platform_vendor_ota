@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_potter_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_potter_7.1.2_20170712_2.0-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170712</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/potter/Cosmic-OS_potter_7.1.2_20170712_2.0-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/potter</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>38513e0f2b66bf450c3b987703c52e8f</CheckMD5>
-  <FileSize type="integer">376267317</FileSize>
-  <Developer>Manik Chathli</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      07-12-2017
 ====================
 
@@ -55,5 +42,4 @@ fe33f6e6560  QS: BT easy toggle [1/2]  [Sagar Shah]
 66322b8ed42  Add advanced location tile  [Sagar Shah]
 8ce087392b0  Speed up the volume panel timeout  [Sagar Shah]
 71f0c44eb65  base: Speed a couple more things up  [Sagar Shah]
-c942455fb17  Navbar tile: one tap to enable/disable, long tap to choose nav type  [Sagar Shah]</Changelog>
-</ROM>
+c942455fb17  Navbar tile: one tap to enable/disable, long tap to choose nav type  [Sagar Shah]
