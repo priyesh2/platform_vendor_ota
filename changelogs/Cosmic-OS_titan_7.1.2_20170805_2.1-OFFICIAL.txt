@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_titan_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_titan_7.1.2_20170805_2.1-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170805</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/titan/Cosmic-OS_titan_7.1.2_20170805_2.1-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/titan</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>18528caf8d795f9033f2210a15b1ebc8</CheckMD5>
-  <FileSize type="integer">334994516</FileSize>
-  <Developer>jackcicci</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>OTA update Titan
+OTA update Titan
 
 ====================
      08-05-2017
@@ -55,5 +42,6 @@ ec78924  Merge remote-tracking branch 'caf/LA.BR.1.2.9_rb1.23' into cm-14.1-caf-
 
 ====================
      08-03-2017
-====================</Changelog>
-</ROM>
+====================
+
+
