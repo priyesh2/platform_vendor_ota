@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_mido_7.1.2</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_mido_7.1.2_20170916_2.1-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20170916</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/mido/Cosmic-OS_mido_7.1.2_20170916_2.1-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/mido</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>6246bf1074f22d2f86e5684dcf41fc34</CheckMD5>
-  <FileSize type="integer">516407177</FileSize>
-  <Developer>MakeMeCool</Developer>
-  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
-  <DonateURL nil="true"/>
-  <Changelog>====================
+====================
      09-16-2017
 ====================
 
-   * Mido OTA Changelog (16-09-2017)
+* Mido OTA Changelog (16-09-2017)
     
      - Kernel Upstreamed(Linux Version Now 3.18.70)
      - Much Smoother than the Previous Build
@@ -25,7 +12,7 @@
     
 [NOTE : After Download of this OTA Package you can not direcly flash the package with the Updater App. The OTA pack 
         Downloaded in Cosmic Folder of your device's Internal Storage. Please flash the Package in TWRP Recovery]
-    
+
    * hardware/qcom/audio-caf/msm8916/
 7a797d40  Equalizer: Check value size for get preset name  [Dan Pasanen]
    * hardware/qcom/audio-caf/msm8952/
@@ -38,5 +25,32 @@ f5a8e83b  Equalizer: Check value size for get preset name  [Dan Pasanen]
 7da7e5ea  Equalizer: Check value size for get preset name  [Dan Pasanen]
    * hardware/qcom/audio-caf/msm8996/
 53c7f741  Equalizer: Check value size for get preset name  [Dan Pasanen]
-====================</Changelog>
-</ROM>
+
+====================
+     09-15-2017
+====================
+
+
+====================
+     09-14-2017
+====================
+
+
+====================
+     09-13-2017
+====================
+
+
+====================
+     09-12-2017
+====================
+
+
+====================
+     09-11-2017
+====================
+
+   * hardware/qcom/media-caf/msm8974/
+209a13cf5  mm-video-v4l2: venc: Protect buffer from being freed while accessing  [Kevin F. Haggerty]
+
+====================
