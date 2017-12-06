@@ -12,8 +12,8 @@ function write_xml() {
   echo "  <CheckMD5>"$(md5sum $OUT/$version.zip | awk '{print $1}')"</CheckMD5>"
   echo "  <FileSize type=\"integer\">"$(stat --printf="%s" $OUT/${version}.zip)"</FileSize>"
   echo "  <Developer>$MAINTAINER</Developer>"
-  echo "  <WebsiteURL nil=\"true\">cosmic-os.com</WebsiteURL>"
-  echo "  <DonateURL nil=\"true\"/>"
+  echo "  <WebsiteURL nil=\"true\">cosmic-os.github.io</WebsiteURL>"
+  echo "  <DonateURL nil=\"true\"/>paypal.me/Cosmic-OS</DonateURL>"
   echo "  <Changelog>$CHANGELOG</Changelog>"
   echo "</ROM>"
 }
@@ -34,7 +34,7 @@ function update_target() {
     version="$COS_VERSION"
     version_date=$(echo $version | rev | cut -d _ -f 2 | rev)
     device=$(echo $TARGET_PRODUCT | cut -d _ -f 2,3)
-    android="7.1.2"
+    android="8.0.0"
     product=Cosmic-OS_${device}_${android}
     if [ "$CUSTOM_DATE" == true ]; then
       printf 'Enter date in format YYYYMMDD: '
@@ -55,7 +55,7 @@ function update_target() {
     version=$(echo $version | sed -e "s/${version_date}/${date}/g")
     cd $(gettop)/vendor/ota
     git reset --hard HEAD
-    git pull cosmic-os n-mr2
+    git pull cosmic-os oreo
     mkdir -p $(gettop)/vendor/ota/changelogs
     touch $(gettop)/vendor/ota/changelogs/${version}.txt
     head -n 45 $OUT/cos_${device}-Changelog.txt > $(gettop)/vendor/ota/changelogs/${version}.txt
