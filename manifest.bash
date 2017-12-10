@@ -34,7 +34,7 @@ function update_target() {
     version="$COS_VERSION"
     version_date=$(echo $version | rev | cut -d _ -f 2 | rev)
     device=$(echo $TARGET_PRODUCT | cut -d _ -f 2,3)
-    android="8.0.0"
+    android="8.1.0"
     product=Cosmic-OS_${device}_${android}
     if [ "$CUSTOM_DATE" == true ]; then
       printf 'Enter date in format YYYYMMDD: '
@@ -55,7 +55,7 @@ function update_target() {
     version=$(echo $version | sed -e "s/${version_date}/${date}/g")
     cd $(gettop)/vendor/ota
     git reset --hard HEAD
-    git pull cosmic-os oreo
+    git pull cosmic-os oreo-mr1
     mkdir -p $(gettop)/vendor/ota/changelogs
     touch $(gettop)/vendor/ota/changelogs/${version}.txt
     head -n 45 $OUT/cos_${device}-Changelog.txt > $(gettop)/vendor/ota/changelogs/${version}.txt
