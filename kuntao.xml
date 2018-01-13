@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName></RomName>
+  <VersionName><![CDATA[  ]]></VersionName>
+  <VersionNumber type="integer"></VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl></HttpUrl>
+  <Android></Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer">377728585</FileSize>
+  <Developer></Developer>
+  <WebsiteURL nil="true">cosmic-os.com</WebsiteURL>
+  <DonateURL nil="true"/>
+  <Changelog>
