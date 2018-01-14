@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-  <RomName>Cosmic-OS_kuntao_8.1.0</RomName>
-  <VersionName><![CDATA[ Cosmic-OS_Universe_kuntao_8.1.0_20180114_3.1-OFFICIAL ]]></VersionName>
-  <VersionNumber type="integer">20180114</VersionNumber>
-  <DirectUrl>https://downloads.sourceforge.net/project/cosmic-os/kuntao/Cosmic-OS_Universe_kuntao_8.1.0_20180114_3.1-OFFICIAL.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/cosmic-os/files/kuntao</HttpUrl>
-  <Android>8.1.0</Android>
-  <CheckMD5>08adba5dbe0698fc4c4274e64be6cbea</CheckMD5>
-  <FileSize type="integer">507690136</FileSize>
-  <Developer>priyesh2</Developer>
-  <WebsiteURL nil="true">cosmic-os.github.io</WebsiteURL>
-  <DonateURL nil="true"/>paypal.me/Cosmic-OS</DonateURL>
-  <Changelog>====================
+====================
      01-14-2018
 ====================
 
@@ -55,5 +42,4 @@ bd87393  OTA: Update mido (11/01/2018) (#73)  [Sagar Shah]
      01-11-2018
 ====================
 
-   * build/make/</Changelog>
-</ROM>
+   * build/make/
